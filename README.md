@@ -33,6 +33,8 @@ Create a bar chart highlighting the top 5 best selling pizzas based on the reven
 7.	Bottom 5 best sellers by revenue,Total quantity and total orders
 Create a bar chart showcasing the bottom 5 worst selling pizzas based on the revenue,total quantity,total orders
 
-DASHBOARD
-https://github.com/Faustine-Munishi/Dataanalysis-/commit/05969855ee5fcacfd2d29d5598578c0d695007bc
+DASHBOARDS
+1.Dashboard| https://github.com/Faustine-Munishi/Dataanalysis-/blob/main/PIZA%20DASHBOARD.pdf
+2.For interactive Dashboards| https://github.com/Faustine-Munishi/Dataanalysis-/commit/05969855ee5fcacfd2d29d5598578c0d695007bc
+
 
